@@ -1,6 +1,6 @@
 <b:if cond='data:view.isSingleItem and !data:view.isPreview'>
 <!--[skrip tidak berfungsi jika Anda menghapus kredit pembuat || the script doesn't work if you remove the creator credit]-->
-<div class='made-by-wc' style='display:none;'>https://animepelangi.blogspot.com</div>
+<div class='made-by-wc' style='display:none;'>https://www.wendycode.com</div>
 <script>/*<![CDATA[*/
 /* auto safelink by wendy code */
 var wcSafePost = ["https://animepelangi.blogspot.com/p/safelink.html"]; //samakan dengan url halaman safelink
